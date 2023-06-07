@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonioDA2004
 - 👀 I’m interested in Artificial Intelligence and Big Data
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Artificial Intelligence
+- 💞️ I’m looking to collaborate on Telecommunications Engineering
 - 📫 How to reach me: Telegram, Discord, Instagram
 
 <!---
