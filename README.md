@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Big Data
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Telecommunications Engineering
-- 📫 How to reach me: Telegram, Discord, Linkedin, Instagram
+- 📫 How to reach me: Linkedin, Discord
 
 <!---
 AntonioDA2004/AntonioDA2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
