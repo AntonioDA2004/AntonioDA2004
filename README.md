@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonioDA2004
-- 👀 I’m interested in Web Development, Data Structures and Algorithms
+- 👀 I’m interested in Cybersecurity, Data Science, Algorithms, Web Development
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Telecommunications Engineering
+- 💞️ I’m looking to collaborate with Cybersecurity experts, Data Analysts, Physicists or Mathematicians
 - 📫 How to reach me: Discord, LinkedIn
 
 <!---
