@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Data Science, Algorithms, Web Development
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate with Cybersecurity experts, Data Analysts, Physicists or Mathematicians
-- 📫 How to reach me: Discord, LinkedIn
+- 📫 How to reach me: LinkedIn
 
 <!---
 AntonioDA2004/AntonioDA2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
