@@ -38,14 +38,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioda2004&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonioda2004&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=antonioda2004&theme=radical&row=2&column=3)
-
 ---
 
 ## 📫 Let's Connect!
