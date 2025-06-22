@@ -29,6 +29,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff)
 
+### **Quantum Computing**
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=fff)
+![IBM Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge)
+
 ### **Databases and Version Control**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
